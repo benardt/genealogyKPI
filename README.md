@@ -18,5 +18,7 @@ Metrics analysis for geneanet.org family tree
 
 Inbreeding coefficient is calculated with tabular method. Picture hereafter show inbreeding value in color. Higher value is Yellow. Inbreeding 0 is dark blue.
 
+Example with tabular method here: http://www.ihh.kvl.dk/htm/kc/popgen/genetics/4/5.htm
+
 ![example inbreeding](./images/inbreeding_view.png)
 
