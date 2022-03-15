@@ -1,5 +1,5 @@
 # genealogyKPI
-Metrics analysis for geneanet.org family tree
+Metrics analysis for geneanet.org family tree based on [Sosa–Stradonitz Method Numbering](https://en.wikipedia.org/wiki/Ahnentafel).
 
 ![example tree](./images/tree2021-08-06_143107.png)
 
