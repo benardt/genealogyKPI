@@ -23,3 +23,6 @@ Example with tabular method here: http://www.ihh.kvl.dk/htm/kc/popgen/genetics/4
 
 ![example inbreeding](./images/inbreeding_view.png)
 
+## 3. References
+
+* [Plotly](https://github.com/plotly/plotly.py)
