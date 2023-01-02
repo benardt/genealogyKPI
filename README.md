@@ -26,3 +26,12 @@ Example with tabular method here: http://www.ihh.kvl.dk/htm/kc/popgen/genetics/4
 ## 3. References
 
 * [Plotly](https://github.com/plotly/plotly.py)
+
+## 4. Bibliography
+
+* Georgelis, A. (2018). Multiperspective visualization of genealogy data. https://www.diva-portal.org/smash/get/diva2:1242034/FULLTEXT01.pdf
+* Ball, R., & Cook, D. (2014, February). A family-centric genealogy visualization paradigm. In Proceedings of 14th Annual Family History Technology Workshop. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.589.6435&rep=rep1&type=pdf
+* Köhle, D. Spatio-Temporal Genealogy Visualization with WorldLines. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.7667&rep=rep1&type=pdf
+* http://www.aviz.fr/geneaquilts
+* Calculation of inbreeding and relationship, the tabular method http://www.ihh.kvl.dk/htm/kc/popgen/genetics/4/5.htm
+* B Tier. Computing inbreeding coefficients quickly. Genetics Selection Evolution, 1990, 22 (4), pp.419-430. hal-00893856 https://hal.archives-ouvertes.fr/hal-00893856/
