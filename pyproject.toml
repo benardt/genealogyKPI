@@ -1,0 +1,6 @@
+# genealogyKPI/pyproject.toml (Excerpt)
+
+[tool.poetry.dependencies]
+python = "^3.9"
+plotly = "5.15.0"
+beautifulsoup4 = "4.10.0"
